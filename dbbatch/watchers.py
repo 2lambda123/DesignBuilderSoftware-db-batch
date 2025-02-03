@@ -1,4 +1,4 @@
-""" Set of watchers to monitor calculation progress. """
+"""Set of watchers to monitor calculation progress."""
 
 import os
 import time
